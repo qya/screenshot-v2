@@ -1,6 +1,6 @@
 {
     "name": "screenshot-v2",	 
-    "alias": "screenshot-v2.now.sh",
+    "alias": "screenshot-v2-4neeciigv.now.sh",
     "version": 2,
     "builds": [
         { "src": "public/*", "use": "@now/static" },
